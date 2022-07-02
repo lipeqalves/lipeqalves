@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipeqalves&show_icons=true&theme=radical)
 
-## Hard Skill desenvolvidas 
+## Hard Skill desenvolvidas 📚
 
 <div style ="display: inline_block"><br>
 <img aling="center" olt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,7 +15,7 @@
 <img aling="center" olt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
-## Hard Skill que estou aprendendo 
+## Hard Skill que estou aprendendo 📖 ✏️ 📓
 
 <div style ="display: inline_block"><br>
 <img aling="center" olt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -23,7 +23,7 @@
 <img aling="center" olt="JAVASCRIPT" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
-## Formação
+## Formação 🏫
 
  - Desenvolvimento Web Full Stalk  -- Resilia Educação
 
