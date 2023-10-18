@@ -24,8 +24,7 @@
  <img aling="center" olt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img aling="center" olt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  <img aling="center" olt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img aling="center" olt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img aling="center" olt="FLUTTER" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+
 
 
 
@@ -33,6 +32,7 @@
 
 ## Formação 🏫
 
- - Desenvolvimento Web Full Stalk  -- Resilia Educação
+- Analise e Desenvolvimento de Sistema -- Estacio
+- Desenvolvimento Web Full Stalk  -- Resilia Educação
 
- - Analise e Desenvolvimento de Sistema -- Estacio
+ 
