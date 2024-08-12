@@ -31,7 +31,7 @@
 
 ## Formação 🏫
 
-- Analise e Desenvolvimento de Sistema -- Estacio
-- Desenvolvimento Web Full Stalk  -- Resilia Educação
+- BACHARELADO EM SISTEMAS DE INFORMAÇÃO - UFRPE - Em andamento
+- Desenvolvimento Web Full Stalk  -- Resilia Educação - Concluido
 
  
